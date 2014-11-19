@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.75" name="CSVSheetTable">
+  <DataContextMoniker Name="/CSVSheetTableDataContext" />
+  <nestedChildShapes>
+    <classShape Id="df5ee109-cba9-4e19-b4a4-9618c37b3891" absoluteBounds="6.25, 2, 2, 7.5399397786458326">
+      <DataClassMoniker Name="/CSVSheetTableDataContext/Sheet1_" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1f75010-3364-42bf-962b-94891f2cacea" absoluteBounds="6.265, 2.46, 1.9700000000000002, 6.979939778645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="nssnc" Class="productImagesDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=JOSEPH\SQLEXPRESS;Initial Catalog=nssnc;Integrated Security=True" SettingsObjectName="LoadNeuseCSV.Properties.Settings" SettingsPropertyName="nssncConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.productimages" Member="productimages">
+    <Type Name="productimage">
+      <Column Name="imageProduct" Type="System.String" DbType="NVarChar(128) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="imageSrc" Type="System.String" DbType="NVarChar(255) NOT NULL" CanBeNull="false" />
+      <Column Name="imageNumber" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="imageType" Type="System.Int16" DbType="SmallInt NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

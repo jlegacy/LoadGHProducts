@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="nssnc" Class="GHDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=JOSEPH\SQLEXPRESS;Initial Catalog=nssnc;Integrated Security=True" SettingsObjectName="LoadNeuseCSV.Properties.Settings" SettingsPropertyName="nssncConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.GHData" Member="GHDatas">
+    <Type Name="GHData">
+      <Column Name="UPC" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="SKU" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="StyleDescription" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Cntry" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="Size" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="MSRP" Type="System.Decimal" DbType="Money" CanBeNull="true" />
+      <Column Name="Page" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

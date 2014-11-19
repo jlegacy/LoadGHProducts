@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="nssnc" Class="CSVSheetTableDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=JOSEPH\SQLEXPRESS;Initial Catalog=nssnc;Integrated Security=True" SettingsObjectName="LoadNeuseCSV.Properties.Settings" SettingsPropertyName="nssncConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Sheet1$" Member="Sheet1_s">
+    <Type Name="Sheet1_">
+      <Column Name="brandName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="modelName" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="modelYear" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="modelSKU" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="modelDescription" Type="System.String" DbType="NVarChar(MAX)" CanBeNull="true" />
+      <Column Name="modelImage" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="imageCaption" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="gender" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="categoryID" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="sku" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="mpn" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="gtin1" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="gtin2" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="msrp" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="dealerCost" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="specialCost" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="lowMsrp" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="length" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="width" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="height" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="weight" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="image" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="unit" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="hazmatCode" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="taxable" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="shippable" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="shipGround" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="shipAir" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="ormd" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="FFLrequired" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="NFArequired" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="variHash" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="name" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="id" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+      <Column Name="text" Type="System.String" DbType="NVarChar(255)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="GHData">
+  <DataContextMoniker Name="/GHDataDataContext" />
+  <nestedChildShapes>
+    <classShape Id="384bfa82-f0b0-4c3f-8d1b-b8eef59fb553" absoluteBounds="6, 1.5, 2, 2.3478011067708335">
+      <DataClassMoniker Name="/GHDataDataContext/GHData" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4e229501-6a52-432d-88c7-428c92516bc0" absoluteBounds="6.015, 1.96, 1.9700000000000002, 1.7878011067708335" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

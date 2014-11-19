@@ -1,0 +1,6 @@
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\UpdNeuseProductDesc\LoadNeuseCSV\bin\Debug\LoadNeuseCSV.exe.config
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\UpdNeuseProductDesc\LoadNeuseCSV\obj\Debug\LoadNeuseCSV.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\UpdNeuseProductDesc\LoadNeuseCSV\obj\Debug\LoadNeuseCSV.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\UpdNeuseProductDesc\LoadNeuseCSV\bin\Debug\LoadNeuseCSV.exe
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\UpdNeuseProductDesc\LoadNeuseCSV\bin\Debug\LoadNeuseCSV.pdb
+C:\Users\jlegacy\Documents\Visual Studio 2013\Projects\UpdNeuseProductDesc\LoadNeuseCSV\bin\Debug\LINQtoCSV.dll
